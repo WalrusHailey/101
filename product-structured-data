@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "素色刷毛大學T-麻花白(女)",
+  "image": [
+  "http://pic.101.com.tw/img/productimg/public/7/7514008/a7514008-1.jpg?v=20180301"
+   ],
+  "description": "內刷毛穿起來很舒服，厚度適中，很好搭配，百搭基本款。",
+  "mpn": "7514008",
+  "brand": {
+    "@type": "Thing",
+    "name": "原創101"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "545"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TWD",
+    "price": "399",
+    "itemCondition": "http://schema.org/UsedCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "原創101"
+    }
+  }
+}
+</script>
